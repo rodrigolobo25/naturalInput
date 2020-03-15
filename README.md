@@ -1,1 +1,1 @@
-# naturalInput
+Using the npm-natural for natural language processing and using google translate api to standarize in english
