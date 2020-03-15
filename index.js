@@ -54,6 +54,14 @@ var trainingData = [
   {text:'pause', key: 'PAUSE'},
   {text:'pause', key: 'PAUSE'},
   {text:'pause', key: 'PAUSE'},
+
+  {text:'enter', key: 'ENTER'},
+  {text:'start', key: 'ENTER'},
+  {text:'start game', key: 'ENTER'},
+  {text:'enter', key: 'ENTER'},
+  {text:'start', key: 'ENTER'},
+  {text:'start game', key: 'ENTER'},
+
   {text:'quit', key: 'QUIT'}
 ]
 
